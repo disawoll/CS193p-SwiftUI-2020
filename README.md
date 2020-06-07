@@ -5,4 +5,4 @@ Course material can be found here: https://cs193p.sites.stanford.edu
 
 I'm new to SwiftUI & programming in general so take my solutions with a grain of salt 🤷🏻‍♂️
 
-<img src="Screenshots/Memorize/IMG_1834.png" width="300"> <img src="Screenshots/Memorize/IMG_1835.png" width="300">
+<img src="Screenshots/Memorize/lightMode.png" width="350"> <img src="Screenshots/Memorize/darkMode.png" width="350">
