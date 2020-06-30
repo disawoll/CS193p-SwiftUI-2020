@@ -1,6 +1,3 @@
 [submodule "Memorize"]
 	path = Memorize
 	url = https://github.com/disawoll/Memorize
-[submodule "SetGame"]
-	path = SetGame
-	url = https://github.com/disawoll/SetGame
